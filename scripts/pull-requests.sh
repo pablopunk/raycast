@@ -7,7 +7,7 @@
 #
 # Optional parameters:
 # @raycast.packageName Github
-# @raycast.icon ./images/github-logo.png
-# @raycaast.iconDark ./images/github-logo-dark.png
+# @raycast.icon ../images/github-logo.png
+# @raycaast.iconDark ../images/github-logo-dark.png
 
 open https://github.com/pulls/
